@@ -4,3 +4,4 @@ Esta libreria permite:
 - Sumar
 - Restar
 - Multiplicar
+- Dividir
